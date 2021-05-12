@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey 👋🏻
 
 My name is Brenda Leon, I'm a brazilian Data Science Student in love with Python. 
 
