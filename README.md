@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Brenda Leon, I'm a brazilian Data Scientist Student in love with Python. 
+My name is Brenda Leon, I'm a brazilian Data Science Student in love with Python. 
 
 Originally graduated as a Production Engineer, I believe in the power of data for problem solving and world conquering. 👩🏻‍💻
 - 📚 I’m currently learning Statistical Analysis using Python, SQL and Machine Learning.
