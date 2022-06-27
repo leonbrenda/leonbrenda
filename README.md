@@ -3,7 +3,7 @@
 My name is Brenda Leon, I'm a brazilian Data Science Student in love with Python. 
 
 Originally graduated as a Production Engineer, I believe in the power of data for problem solving and world conquering. 👩🏻‍💻
-- 📚 I’m currently learning Statistical Analysis using Python, SQL and Machine Learning.
+- 📚 I’m currently learning Statistical Analysis using Python and SQL.
 - 💻 Techs & Tools: Python, Power BI, Excel 
 - 📍  From Rio de Janeiro
 
