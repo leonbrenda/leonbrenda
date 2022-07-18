@@ -1,6 +1,6 @@
 # Hey 👋🏻
 
-My name is Brenda Leon, I'm a brazilian Front-end Developer Student in love with codes. 
+My name is Brenda Leon, I'm a brazilian Front-End Developer Student in love with codes. 
 
 Originally graduated as a Production Engineer, I believe in the power of programming for problem solving and world conquering. 👩🏻‍💻
 - 📚 I’m currently learning Web Development (using HTML, CSS and JavaScript) and UI Design (using Figma).
