@@ -4,7 +4,7 @@ My name is Brenda Leon, I'm a brazilian Front-End Developer student in love with
 
 Originally graduated as a Production Engineer, I believe in the power of programming for problem solving and world conquering. 👩🏻‍💻
 - 📚 I’m currently learning Web Development (using HTML5, CSS3 and JavaScript) and UI Design (using Figma).
-- 💻 Techs & Tools: HTML, CSS, SQL, Python, Git, Power BI, Excel.
+- 💻 Techs & Tools: HTML5, CSS3, SQL, Python, Git, Power BI, Excel.
 - 📍  From Rio de Janeiro
 
 **How to reach me** 👇🏼
